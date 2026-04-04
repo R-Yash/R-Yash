@@ -2,8 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Raja+Yashwanth+Avantsa;AI+Engineer;LLM+%2F+Multi-Agent+Systems;RAG+%26+Agentic+Pipelines" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-yashwanth-avantsa-ab4751229/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/raja-yashwanth-avantsa-ab4751229/](https://www.linkedin.com/in/r-yash/))
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)]([https://www.upwork.com](https://www.upwork.com/freelancers/~01871980cb9c8caca5))
 [![Mail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashwanth5836@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=R-Yash&style=flat-square&color=58A6FF&label=views)](https://github.com/R-Yash)
 
@@ -20,10 +20,10 @@ name:     Raja Yashwanth Avantsa
 role:     AI Engineer
 focus:
   - LLM Applications
-  - Multi-Agent Systems (LangGraph)
+  - Multi-Agent Systems
   - RAG Pipelines & Vector DBs
   - AI Automation & Voice Agents
-status:   Open to freelance
+status:   Open to collaboration
 location: India
 ```
 
@@ -47,16 +47,16 @@ B.Tech CSE · IIIT Gwalior · 8.1 CGPA
 
 ### What I ship
 
-I build production-grade AI systems that get adopted — multi-agent orchestrators, RAG pipelines, voice agents, and document automation tools.
+I build production-grade AI systems like multi-agent orchestrators, RAG pipelines, voice agents, and document automation tools.
 
-- **Unity AI Copilot** — LangGraph + Mem0 + LanceDB · 4 specialized sub-agents · 60% lower retrieval latency · 120+ users, ~2 dev-hours saved per feature
-- **LLM patent parser** — 98% chunk-parsing accuracy · 60% reduction in manual review time
-- **Vapi voice agents** — 500+ scheduling calls/month handled autonomously · 20 hrs/week saved
-- **Property data pipelines** — 250+ agencies · scraper runtime cut from 600ms → 250ms across 10k+ daily jobs
+- **Unity AI Copilot** —> LangGraph + Mem0 + LanceDB · 4 specialized sub-agents · 60% lower retrieval latency · 120+ users, ~2 dev-hours saved per feature
+- **LLM patent parser** —> 98% chunk-parsing accuracy · 60% reduction in manual review time
+- **Vapi voice agents** —> 500+ scheduling calls/month handled autonomously · 20 hrs/week saved
+- **Property data pipelines** —> 250+ agencies · scraper runtime cut from 600ms → 250ms across 10k+ daily jobs
 
 ---
 
-### Projects
+### Highlight Projects
 
 <table>
 <tr>
